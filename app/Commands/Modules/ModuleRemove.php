@@ -1,5 +1,19 @@
 <?php
 
+/**
+ * CodeIgniter
+ *
+ * Copyright (c) 2014-2019 British Columbia Institute of Technology
+ * Copyright (c) 2019-2022 CodeIgniter Foundation
+ *
+ * @author     CodeIgniter Dev Team, Enrico Pradana
+ * @copyright  2019-2022 CodeIgniter Foundation
+ * @license    https://opensource.org/licenses/MIT  MIT License
+ * @link       https://codeigniter.com
+ * @since      Version 4.2.10
+ * @filesource
+ */
+
 namespace App\Commands\Modules;
 
 use CodeIgniter\CLI\BaseCommand;
